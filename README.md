@@ -40,11 +40,11 @@ Atualmente no 5º período, possuo experiência em participação ativa em proje
 ## // Estatísticas do GitHub
 
 <div align="center">
-  <img height="195em" src="https://github-readme-stats.vercel.app/api?username=Izukill&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=Izukill&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   
-  <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Izukill&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Izukill&layout=compact&langs_count=7&theme=tokyonight"/>
   
-  <img height="195em" src="https://github-readme-streak-stats.herokuapp.com/?user=Izukill&theme=tokyonight" />
+  <img height="130em" src="https://github-readme-streak-stats.herokuapp.com/?user=Izukill&theme=tokyonight"/>
 </div>
 
 ---
@@ -52,6 +52,7 @@ Atualmente no 5º período, possuo experiência em participação ativa em proje
 ## 🌐 Contatos
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/SEU_USER_AQU](https://www.linkedin.com/in/luan-loreto-de-oliveira-gonçalves-859265393/)I)
+<br/>
 [![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luanloreto639@gmail.com)
 
 ---
