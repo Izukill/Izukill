@@ -6,7 +6,7 @@ Atualmente no 5º período, possuo experiência em participação ativa em proje
 
 ---
 
-## 💻 Sobre Mim
+## // Sobre Mim
 
 - 🎓 **Educação:** Cursando o 5º período de ADS no Instituto Federal da Paraíba (IFPB).
 - 🤝 **Trabalho em Equipe:** Experiência prática colaborando com grupos de programadores em projetos acadêmicos, utilizando metodologias ágeis e controle de versão.
@@ -15,7 +15,7 @@ Atualmente no 5º período, possuo experiência em participação ativa em proje
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+## // Tecnologias & Ferramentas
 
 ### Backend & Data
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -33,11 +33,11 @@ Atualmente no 5º período, possuo experiência em participação ativa em proje
 
 ---
 
-## 📊 Estatísticas do GitHub
+## // Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Izukill&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Izukill&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Izukill&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Izukill&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 ---
