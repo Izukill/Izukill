@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=550&height=60&lines=Luan+Loreto!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=008000&center=true&vCenter=true&width=550&height=60&lines=Luan+Loreto!" alt="Typing SVG" />
 </div>
 
 **Estudante de Análise e Desenvolvimento de Sistemas (ADS) @ IFPB**
