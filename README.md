@@ -44,8 +44,8 @@ Atualmente no 5º período, possuo experiência em participação ativa em proje
 
 ## 🌐 Contatos
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU_USER_AQUI)
-[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@exemplo.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/SEU_USER_AQU](https://www.linkedin.com/in/luan-loreto-de-oliveira-gonçalves-859265393/)I)
+[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luanloreto639@gmail.com)
 
 ---
 "O sucesso é a soma de pequenos esforços repetidos dia após dia."
