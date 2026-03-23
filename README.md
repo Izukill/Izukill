@@ -44,7 +44,7 @@ Atualmente no 5º período, possuo experiência em participação ativa em proje
   
   <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Izukill&layout=compact&langs_count=7&theme=tokyonight"/>
   
- <img height="195em" src="https://github-readme-streak-stats.herokuapp.com/?user=Izukill&theme=tokyonight" />
+  <img height="195em" src="https://github-readme-streak-stats.herokuapp.com/?user=Izukill&theme=tokyonight" />
 </div>
 
 ---
