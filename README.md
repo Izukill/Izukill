@@ -6,7 +6,7 @@
 
 **Estudante de Análise e Desenvolvimento de Sistemas (ADS) @ IFPB**
 
-Atualmente no 5º período, possuo experiência em participação ativa em projetos colaborativos na faculdade e pelo desenvolvimento constante de projetos independentes, onde exploro novas tecnologias e desafios técnicos reccorrentemente, gosto de explorar caminhos e soluções para problemas que possuo de forma técnológica, eu amo programar.
+Atualmente no 5º período, possuo experiência em participação ativa em projetos colaborativos na faculdade e pelo desenvolvimento constante de projetos independentes, onde exploro novas tecnologias e desafios técnicos recorrentemente, gosto de explorar caminhos e soluções para problemas que possuo de forma técnológica, eu amo programar.
 
 ---
 
@@ -44,7 +44,7 @@ Atualmente no 5º período, possuo experiência em participação ativa em proje
   
   <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Izukill&layout=compact&langs_count=7&theme=tokyonight"/>
   
-  <img height="195em" src="https://github-streak-stats.herokuapp.com/?user=Izukill&theme=tokyonight"/>
+ <img height="195em" src="https://github-readme-streak-stats.herokuapp.com/?user=Izukill&theme=tokyonight" />
 </div>
 
 ---
