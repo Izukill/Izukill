@@ -1,14 +1,23 @@
+
+<div align="right">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=008000&height=120&section=header&width=400" />
+</div>
+
 <div align="center">
-  <img height="195em" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=008000&center=true&vCenter=true&width=550&height=60&lines=Luan+Loreto!" alt="Typing SVG" />
+  <img height="195em" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=008000&center=true&vCenter=true&width=550&height=60&lines=Luan+Loreto" alt="Typing SVG" />
 </div>
 
 <br/>
 
 **Estudante de Análise e Desenvolvimento de Sistemas (ADS) @ IFPB**
 
-Site Portifólio: https://loretoportifolio.vercel.app
-
 Atualmente no 5º período, possuo experiência em participação ativa em projetos colaborativos na faculdade e pelo desenvolvimento constante de projetos independentes, onde exploro novas tecnologias e desafios técnicos recorrentemente, gosto de explorar caminhos e soluções para problemas que possuo de forma técnológica, eu amo programar.
+
+---
+
+## 🔗 Portfólio
+Você pode acessar o portfólio online aqui:  
+🤓 **[loretoportifolio.vercel.app](https://loretoportifolio.vercel.app)**
 
 ---
 
@@ -57,3 +66,6 @@ Atualmente no 5º período, possuo experiência em participação ativa em proje
 
 ---
 "O sucesso é a soma de pequenos esforços repetidos dia após dia."
+
+
+![Waves](https://capsule-render.vercel.app/api?type=waving&color=008000&height=100&section=footer)
