@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-  <img height="195em" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=008000&center=true&vCenter=true&width=550&height=60&lines=Luan+Loreto" alt="Typing SVG" />
+  <img height="195em" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=30&duration=4000&pause=1000&color=008000&center=true&vCenter=true&width=550&height=60&lines=Luan+Loreto" alt="Typing SVG" />
 </div>
 
 <br/>
