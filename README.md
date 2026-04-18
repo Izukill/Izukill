@@ -11,8 +11,6 @@
 
 **Estudante de Análise e Desenvolvimento de Sistemas (ADS) @ IFPB**
 
-Atualmente no 5º período, possuo experiência em participação ativa em projetos colaborativos na faculdade e pelo desenvolvimento constante de projetos independentes, onde exploro novas tecnologias e desafios técnicos recorrentemente, gosto de explorar caminhos e soluções para problemas que possuo de forma técnológica, eu amo programar.
-
 ---
 
 ## 🔗 Portfólio
