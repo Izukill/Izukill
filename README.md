@@ -20,7 +20,7 @@ Você pode acessar o portfólio online aqui:
 -  **Educação:** Cursando o 5º período de ADS no Instituto Federal da Paraíba (IFPB).
 -  **Trabalho em Equipe:** Experiência prática colaborando com grupos de programadores em projetos acadêmicos, utilizando metodologias ágeis e controle de versão.
 -  **Projetos:** Além da graduação, foco no desenvolvimento de projetos autorais para aplicar conceitos de arquitetura e segurança.
--  **Interesses:** Sou entusiasta de Segurança Digital,BackEnd e Inteligência Artificial, áreas que busco integrar nos meus fluxos de desenvolvimento.
+-  **Interesses:** Sou entusiasta de Segurança Digital, BackEnd e Inteligência Artificial, áreas que busco integrar nos meus fluxos de desenvolvimento.
 
 ---
 
