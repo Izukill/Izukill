@@ -9,9 +9,8 @@
 
 ---
 
-## 🔗 Portfólio
-Você pode acessar o portfólio online aqui:  
-🤓 **[loretoportifolio.vercel.app](https://loretoportifolio.vercel.app)**
+## 🔗 Portfólio 
+**[loretoportifolio.vercel.app](https://loretoportifolio.vercel.app)** 🤓
 
 ---
 
