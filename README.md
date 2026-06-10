@@ -14,6 +14,7 @@
 
 ---
 
+
 ## // Tecnologias & Ferramentas
 
 ### Backend & Data
