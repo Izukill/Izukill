@@ -52,8 +52,5 @@
 <br/>
 [![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luanloreto639@gmail.com)
 
----
-"O sucesso é a soma de pequenos esforços repetidos dia após dia."
-
 
 ![Waves](https://capsule-render.vercel.app/api?type=waving&color=008000&height=100&section=footer)
